@@ -1,6 +1,6 @@
 [submodule "CS61C-fa20-labs"]
 	path = CS61C-fa20-labs
-	url = git@github.com:cy-Yin/CS61C-fa20-labs.git
+	url = git@github.com:iwantsomememories/CS61C_FA20_LABS.git
 [submodule "CS61C-fa20-proj1"]
 	path = CS61C-fa20-proj1
 	url = git@github.com:cy-Yin/CS61C-fa20-proj1.git
