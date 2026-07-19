@@ -6,7 +6,7 @@
 	url = git@github.com:iwantsomememories/CS61C_PROJ1.git
 [submodule "CS61C-fa20-proj2"]
 	path = CS61C-fa20-proj2
-	url = git@github.com:cy-Yin/CS61C-fa20-proj2.git
+	url = git@github.com:iwantsomememories/CS61C_PROJ2_FA20.git
 [submodule "CS61C-fa20-proj3"]
 	path = CS61C-fa20-proj3
 	url = git@github.com:cy-Yin/CS61C-fa20-proj3.git
